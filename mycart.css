@@ -1,0 +1,12 @@
+ body{background-size: cover;
+        background-attachment: fixed;
+        background-image:
+        linear-gradient(to top, rgba(0, 0, 0, 0.52), rgba(0, 0, 0, 0.73)),
+        url('assets/images/cart.jpg');
+    
+    }
+
+.container{
+    background-color:white;
+    margin-top:60px;
+}

@@ -1,0 +1,25 @@
+body{background-size: cover;
+    background-attachment: fixed;
+    background-image:
+    linear-gradient(to top, rgba(0, 0, 0, 0.52), rgba(0, 0, 0, 0.73)),
+    url('assets/images/restcover.jpg');
+
+}
+
+
+.myform{
+    width:600px;
+    background-color: white;
+    padding:50px;
+    box-sizing: border-box;
+    margin:auto;
+    margin-top:3vw;
+    box-shadow: 0 0 10px white;
+}
+
+@media screen and (max-width:600px)
+{
+    .myform{
+        width:100%;
+    }
+}
